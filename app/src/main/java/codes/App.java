@@ -11,5 +11,6 @@ public class App {
     public static void main(String[] args) { // 1
         System.out.println(new App().getGreeting());
         // commit 1
+        // commit 2
     }
 }
