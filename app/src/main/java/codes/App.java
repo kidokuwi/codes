@@ -8,8 +8,8 @@ public class App {
         return "Hello World!";
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { // 1
         System.out.println(new App().getGreeting());
-        System.out.println("example");
+        // commit 1
     }
 }
